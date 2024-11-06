@@ -1,0 +1,36 @@
+.div{
+    width: 330px;
+    height: 650px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJwbrG2Z7I2LwO5xtck7KJpds_SX0F9KJVw&s);
+    justify-content: flex-end;
+    border-radius: 15px;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p,a{
+    opacity: 0;
+    transition: .3s ease-in-out;
+
+}
+div:hover a{
+    position: relative;
+    opacity: 1;
+    transition: .3s ease-in-out;
+    top: -20px;
+    transition: .3s ease-in-out;
+}
+div:hover p{
+    position: relative;
+    opacity: 1;
+    transition: .3s ease-in-out;
+    top: -20px;
+    transition: .3s ease-in-out;
+}
+div:hover h1{
+    position: relative;
+    top: -20px;
+    transition: .3s ease-in-out;
+}

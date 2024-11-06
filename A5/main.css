@@ -1,0 +1,34 @@
+/* ngjyra me tekst */
+h1{ 
+    color: rgb(218, 36, 36);
+    letter-spacing: 50px;
+    text-transform: uppercase;
+}
+/* 2. Ngjyra me rgb- red, gtrrn, blue */
+h2{
+color: rgb(255, 0, 0)
+}
+
+h3{
+color: white;
+word word-spacing: 30px;
+}
+
+h4{
+    text-indent: 30px;
+
+}
+
+h5{
+text-align: right;
+text-decoration: line- red;
+
+
+}
+
+p{
+line-height: 50px;
+}
+
+
+
